@@ -1,0 +1,9 @@
+#! /bin/bash
+note_name=$1
+echo $note_name
+mkdir -p ./Notes/$note_name
+mkdir -p ./Notes/$note_name/img
+touch ./Notes/$note_name/$note_name.md
+echo `pwd`/Notes/$note_name > ~/pwd
+
+
