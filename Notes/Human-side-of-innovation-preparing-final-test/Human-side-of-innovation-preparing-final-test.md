@@ -35,6 +35,7 @@ Innovation:
 **Measurement of creativity**
 
 Three Components of Creativity (Amabile, 1996a)
+
 ![](./img/2017-01-25-14-48-44.png)
 
 Componential theory: 3 main creativity facilitators (= components)
