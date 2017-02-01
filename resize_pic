@@ -1,0 +1,11 @@
+#! /bin/bash
+
+sips -Z 700 Notes/*/img/*.png
+sips -Z 700 Notes/*/img/*.jpg
+
+
+echo "==============="
+echo ""
+echo "Resize Done!!!!"
+echo ""
+echo "==============="
