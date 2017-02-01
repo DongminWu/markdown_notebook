@@ -86,8 +86,33 @@ Creativity intersection: *Highest creativity when an individual is high in all t
 
 #### Given Situation / task: Describe how a team can be useful in such a situation: Discuss positive factors (such as complementarities, specialisation, knowledgetransfer) as well a negative effects (such as free riding, coordination effort)
 
+> TODO:我觉得不应该就这么点吧...每个优缺点就一句话? 
+
+#####Advantages
+**Complementarities:**
+
+The task can be done faster / more e ciently with more people
+
+**Specialisation**
+
+Each team member may concentrate on a certain task and fulfill this task better, e.g. due to learning effects
+
+**Knowledge transfer**
+
+Team members possess idiosyncratic knowledge, which is helpful for other team members
+
+#####disadvantages
+
+Free-Riding problem
+
+Coordination effort
+
+
 
 ####Teamwork and success (hackman model): Similar question as above (Amabile) possible
+
+![](./img/2017-01-27-02-13-00.png)
+
 
 ###Interactive value creation
 
