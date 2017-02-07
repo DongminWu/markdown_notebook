@@ -511,6 +511,409 @@ proud to be in the team.
 
 ###Interactive value creation
 
-####2 fundamental problems of innovation: Discuss in context####One specific method: mini case
+why are there collaborations in R&D?
+
+Basically, they expect similar advantages as we discussed in the session on teamwork, just on a higher scale- Complementarities   
+- Specialisation
+- Knowledge transfer
+
+####The Trade-offs of “Make or Cooperate”
+
+
+>自己开发的好处
+
+Developing new technologies internally can have several objectives
+
+- Capabilities available (+building and renewing):
+    - Carrying out a development project alone requires a firm to stretch and
+challenge existing capabilities
+    - Incentives to obtain new capabilities
+- Protecting proprietary technologies:
+    - Avoid exposure of core technologies to potential competitors  
+    -  Maintain exclusive control over newly developed technology
+- Controlling technology development:
+    - Desire to control the whole development process and its results
+    - Strategic and cultural reasons inside the company (importance of technology,
+strong emphasis of own technological capabilities)
+- Controlling costs:
+    - Control of expenditures fully within own company
+
+>合作开发的好处
+
+Objectives of developing new technologies in collaboration
+
+- Saving time:
+    - Obtaining necessary skills and resources via collaboration usually is faster than
+in-house development
+    - Complementarities and specialization can lead to faster development
+- Increasing flexibility:
+    - Externally acquiring instead of building and owning necessary assets increases
+the capability of a firm to respond to market change
+- Enabling learning:
+    - Close contact to other firms can enhance knowledge transfer and creation of
+new knowledge applicable in further development efforts
+- Sharing risk and costs:
+    - Joint implementation of technology development efforts characterized by
+uncertainty reduces individual firm’s share in the associated risks and costs
+
+
+
+
+
+
+####2 fundamental problems of innovation: Discuss in context- **Need Information**
+	- Utility and preferences of customers
+	- What kind of advantage should the information provide, what problem should be solved?
+	- Access to need information allowsto put the right innovation to the market
+- **Solution Information**
+	- How can a certain need be satisfied with a product or service?	- What kind of (chemical, physical, Need biological etc.) principle should be applied to solve a problem? Information
+	- What kind of technology should be used?  Problem with Access to **Need information**
+
+Sticky Information (von Hippel, 1994) 
+   
+- Access to customers often difficult Solution    
+- Needs are oftentimes hard to Information
+articulate(善于表达的)    
+- Oftentimes people do not know what you want(ed) unless you see the solution    
+- “If I had asked people what they
+Doing things
+right
+Realization
+wanted, they would have said
+faster horses.” (Henry Ford(?))**Problem with Solution Generation (Information)**
+
+Local Search Bias
+
+- For (new) problems, people often try
+known solution (principles)
+- Oftentimes, this is useful (in particular if
+Need the problem is only slightly modified)
+- For radically new problems, however, this approach is often a dead end street
+- Tendency to avoid new ways of doing things (NIH syndrome: Katz and Allen,
+1982)
+
+→ New approaches must be taken, old
+concept
+procedures must be questioned in order to find (really) new solutions> TODO: discuss!!!! in context怎么做
+
+
+####User Integration
+
+>这一部分列举了几种User Integration 的方法, 要把每种都记下来
+
+#####Ways to Integrate the User in the Innovation Process
+- Search for lead user inventions (“Lead User method”)
+- Observe users in (online) communities (“empathic design” and
+“netnography”)
+- Provide infrastructure for users to co-create (“ideation contests” and “user toolkits for innovation”)#####The Lead User Method
+
+What is Lead User
+
+Lead users face needs that will be general in a marketplace – but much earlier   
+
+Lead users are positioned to benefit significantly by obtaining a solution to their needs
+
+- What do I want to achieve by using the Lead User method
+    - Identification of innovative and radical ideas to diversify business activities
+    - Develop innovative insights into technical solutions for existing (technical)
+problems
+    - Generating trend explorations
+    - Identification of product requirements from user perspective
+- What do I need to use the Lead User method
+    - **High resource effort**, demands also participation of senior (experienced)
+developers from company in project team
+    - **Dedicated training** in lead user identification
+
+- How do I apply the Lead User Method? 
+     1. Definition of project focus and scope
+        - Definition of project team (senior experts)
+        - Definition of project objectives 
+     2. Trend research
+        - Analysis of trends and needs in search fields, using secondary data sources and expert interviews
+     3. Identification of Lead Users
+        - Identification of eligible lead Users using diverse search techniques, pyramiding (networking) or screening
+        - Motivation of lead users to participate 4. Lead User Workshop for Concept Design
+        - Use of creativity and ”design thinking” methods to foster concept generation
+        - Evaluation and internal refinement of ideas
+
+
+- What are the benefits of using the Lead User Method?
+    - In **many (BtoB) industries**, most functional novel products have originally been
+innovated by lead users (e.g. process innovation)
+    - Identification of strong **market opportunities**
+    - Concepts are **developed with direct input** from “lead users”
+    - Get new products and services **faster to the market**, as often needs are
+immediately translated into solution technologies
+- What do I need to be aware of while using the Lead User Method?
+    - Does **no work without strong commitment of firm**, as high expensed开销很大需要公司的强力支持
+    - Works best in BtoB markets, **limited use in some consumer markets**
+    - **Motivation of lead users** (especially from analog markets) to join workshop
+    - Danger of niche orientation, hence combination with conventional concept
+testing!
+    - **Legal framework** has to be established (NDA, IP)
+
+
+######Observation of Users
+
+>用观察用户的方法来找idea
+
+- The idea is to either get to know better **how someone uses a product** or **what kind of problems (potential) customers face**
+
+- This can be done by **observing professionals do their work**, people enjoying
+their hobbies or users being active in online communities>观察用户有两个方法: Emphatic Design and Netnography
+
+
+######Emphatic Design
+
+
+
+
+- What is Emphatic Design?
+    - The idea is to identify latent潜在的 customer needs by not asking but **observing customers in a non-intrusive way** during a usage situation.
+    - This approach builds on recognition that customers have difficulties envisioning future solutions due to **lack of familiarity with technical
+possibilities** and as **they are locked in old mindset**.
+    - The objective is to develop concepts **based on unarticulated不被提及的 customer needs**.
+Key is to observe customers in their usage environment by special teams.
+    - On the basis of the observations, **unspoken customer needs** are identified
+which **serve as an input for other methods of concept generation.**
+
+
+- What do I want to achieve by using empathic design?
+    - Gathering information about:
+        - Interaction of the product with the consumers environment 
+        - Customer habits
+        - Assessment of emotional and aesthetic product features
+        - Not yet articulated or future customer needs
+    - Achieve breakthrough designs in potentially shorter product development cycles
+    - Field observation can reveal opportunities to commercialize innovations existing users have already developed to improve products
+- What do I need to use empathic design?
+    - **Specialists** or methodological knowledge (anthropologists, ethnographers...)
+    - **Short process**, but demands often longer preparation
+    - **Low to medium resource** demand
+    - Good opportunities for outsourcing外包 to specialized agencies, however real
+learning only when **developers are part of observation** team, too可以外包但是开发者也要在观察者里
+
+
+- How do I apply Emphatic Design? 
+    - 1. **Search** field definition    
+        - Definition of potential target segments / users for observation     
+        - Definition of issues observers concentrate on    
+        - Research team definition
+    - 2. **Capturing** data    
+        - Engage in **non-intrusive way** to capture observations    
+        - Use **photography or video as tools** to store and convey data that might
+otherwise be omitted    
+        - **Note critical incidents** and own developments / solutions developed by
+customers
+    - 3. **Evaluation** and documentation    
+        - Share and extract observations    
+        - Review visual data    
+        - Cluster observation into need areas    
+        - Formulate problem statements, not (only) solutions
+    - 4. **Reflection** and analysis
+
+- What are the benefits of using empathic design?
+    - **Gathering** a **differentiated** picture **of the needs of customers during usage** of
+products
+    - **Determine customer requirements** which customers cannot articulate or
+recognize themselves
+    - **Create opportunities for differentiation strategies**, often by also addressing
+non-core dimensions of an offering (e.g., package instead of content)
+    - **Rather low cost, low risk method**
+- What do I need to be aware of while using empathic design?
+    - **Lack of objectivity of the results**, when too close relationship between
+researcher and subjects
+    - **Difficulty to not judge behavior** or decisions of constituents
+    - Emphatic design **cannot replace classic market research**, but rather contributes
+ideas that need further testing
+    - **Community politics** often make it **difficult to select few individuals** to work with
+
+
+#####Netnography
+
+- What is netnography?
+    - Netnography (interNET & ethNOGRAPHY) is a qualitative research approach
+to **analyze the customer and users dialogues** in existing (often user generated)
+online communities分析网上留言
+    - The aim is to **gain valuable insights** especially in the early stages of the
+innovation process.
+    - The empathic and non-obtrusive online observation **allows the qualitative
+assessment** of explicitly verbalized and implicitly existing needs, wishes experiences, motivations, attitudes, and perceptions of consumers towards products, services and brands.有助于定性分析需求...
+    - As people engaging in these communities **often show ”lead user** characteristics”, their input is especially valuable.网上发言的人更有lead user特质
+
+- What do I want to achieve using netnography?
+    - Clearly **outlined “consumer insights“ and “consumer understandings“**
+    - Typologies of **user groups**
+    - Identification of **user innovations**, **user generated content** as well as product
+prototypes
+    - Identification of **opinion leaders**, **early adopters** and **lead users**
+- What do I need to use netnography?
+    - Systematic process to **search, extract, and evaluate** community input
+    - **User input data** from online communities, boards, blogs...
+    - **Experienced researchers** in finding relevant communities and identifying
+relevant user input
+    - Specialized agencies are available to support this activity外包
+
+- How do I apply netnography?
+    1. **Search field** definition
+        - Systematization of topics, trends, markets and products
+    2. **Identification and selection** of online communities and sources
+        - Sources like: Boards, blogs and user generated content platforms
+        - Using defined selection criteria
+    3. **Community observation** and software aided data gathering
+        - Observation, data storage and qualitative data analysis of topics, issues, threats, profiles and user innovations
+        - Software based coding for additional quantitative analysis
+    4. **Qualitative in depth analysis**, interpretation and aggregation of consumer
+insights
+        - Aggregation of consumer insights
+        - Description of concepts
+    5. Insight translation into product and service solutions
+        - Transfer of the results into R&D and marketing projects
+
+
+- What are the benefits of using netnography?        
+    - **Classification and positioning of products** and brands within a perceptual知觉的 map        
+    - Because of the passive and unobtrusive不惹眼 observation, companies are able to
+**gain unbiased consumer insights without informing competitors** about activity        
+    - As opposed to more quantitative web monitoring approaches, **listening** to consumers rather than asking them, **understanding** rather than measuring
+consumers’ attitudes and behaviors, are core principles of netnography定性的, 所以不用去量化用户
+- What do I need to be aware of while using netnography?        
+    - **Solutions can be biased** by the selected communities/inputs选择的社区不同, 提出的方案也不同        
+    - **Exploitation of customer communities** – companies often lack the capability to
+communicate with communities (communication strategy)        
+    - Important: What ever you find here, test it with **conventional concept testing**
+to make the ”freak” test – not all ”innovative” statements are relevant        
+    - Scalability: It is **hard to evaluate** large quantities of qualitative data and find
+innovative ideas.
+
+
+#####Ideation Contests
+
+- What are ideation contests? 
+    - Ideation contests are (typically) **web-based
+contests to generate ideas and concepts** for new
+ products, services, or designs, addressing a
+specific task
+    - They are based on the **crowdsourcing principle** of an open call for participation, i.e. broadcasting a task widely and self-identification of participants with either special task motivation or dedicated pre-knowledge.
+    - **Participants can be external or internal**
+    - Using **both competitive and collaborative** mechanisms
+    - Submissions are usually **evaluated by an expert panel讨论小组**, based on a pre-evaluation of participants.
+
+- What do I want to achieve by using ideation contests?
+    - **Generate new ideas** / solutions and **get market insights** also from
+nonconventional audiences as a response to a given task (”challenge”)
+    - Generation of **an idea pool**
+    - **Identification of experts (lead users)** who possess special solution- and/or need
+information
+- What do I need to use ideation contests?
+    - Dedicated online platform and **professional community management**
+    - **3 to 5 month** process
+    - **Marketing budget** to broadcast contest
+    - **Experts** to judge the competition
+    - **Specialized intermediaries** available to support activity
+
+- How do I apply ideation contests? 
+      1. **Preparation** & task definition
+          - Establish timeline and determine contestant submission structure; recruit judges
+          - Frame task and define rules of participation 
+      2. **Promotion** stage (ongoing)
+          - Broadcast question; Identify potential participants (e.g.by quick Netnography study)
+          - Advertise contest task via banners, but mostly context specific search-machine 
+      3. **Participation** stage
+          - Web-based submission of ideas, commenting, evaluations
+          - Community management required 
+      4. **Evaluation**
+          - Prepare shortlist of submissions using pre-evaluations of participants, internal criteria
+          - Prepare and execute jury meeting 
+      5. **Extraction** & exploration
+          - Follow-up workshop with winners; communicate results back to every participant   Disseminate and investigate best idea, investigate IP
+
+ 
+ 
+ - What are the benefits of using ideation contests?
+    - Looking outside the box, **reaching also “non representative” customers** and
+those that are not known to the firm
+    - Utilize tournament to **foster creativity** and dedicated input
+    - Fulfills often also **additional marketing objectives**, ideation contests allow
+interactive engaged marketing
+    - Today often also used to **identify potential employees or development partners**
+- What do I need to be aware of while using ideation contests?
+    - Framing the task (question) **neither to narrow nor too broadly**
+    - Self selection process might **not reach the needed experts / innovators**
+    - **Too many solutions / ideas** might lead to problems selecting / evaluating the
+best solution / idea
+    - **Deviant users**, i.e. unwanted content openly posted on company platform
+    - Overcoming the problem of **”Not invented here”** when **reintegrating** the
+winning proposals
+    - Balance between **fair rules and IP interests**
+ 
+ 
+ 
+ 
+ #####User Toolkits for Innovation
+ 
+ >这个应该就是快速迭代,用户参与设计
+ 
+- What are toolkits for user innovation?
+    - The aim of a toolkit is to **integrate (potential) users**
+of a product into the innovation process.
+    - For this purpose, the manufacturer builds a
+**platform which handles the communication** with
+the customer.
+    - These systems provide customers with sufficient
+“manufacturing related information“ and guide them through the codesign process of **expressing their needs and wishes** in a usable format.
+    - In these systems, different product variants and design options are **represented, visualized, assessed and priced** in a learning-by-doing process for the user.
+    - However, toolkits can be more than this. High-end toolkits offer a **theoretically unlimited solution space** within the product capabilities of the manufacturer.
+ 
+ - What do I want to achieve using toolkits?
+    - Companies can **get into dialogue with** a great number of potential and current
+customers and **integrate them into value creation at great scale**
+    - Help **customers to express their ideas** and requirements of a customizable
+product
+    - **Reduce costs** by shifting certain design tasks from the locus of the manufacturer to the customer
+    - **Increase customer satisfaction** by integrating the customer into the design
+process
+- What do I need to use toolkits?
+    - The toolkit needs to be **user friendly**
+    - There needs to be a **basic functionality** that allows for a simple and efficient
+creation of new products.
+    - There needs to be a **pre-defined solution space**, in which the user can become
+creative, to ensure that the solution is executable.
+
+- How do I apply toolkits?
+    1. **Develop** a user-friendly toolkit for customers
+        - Toolkit must enable customers to run repeated trial-and-error experiments and test them rapidly and efficiently
+        - Customers should be able to work in familiar design language
+        - Toolkit should include a library of standard design modules     
+    2. **Increase flexibility** of the product process
+        - Manufacturing operations need to be retooled for fast, low-cost production of specialized designs developed by customers
+    3. **Carefully select the first customers** to use the toolkit
+        - Best prospects are customers with a strong need to develop custom products
+quickly and frequently, are skilled and have little experience with traditional
+customization services
+    4. **Develop the toolkit continually and rapidly** to satisfy leading-edge customers
+        -  Customers at the forefront will always push for improvements
+    5. **Adapt business practices** accordingly
+        - Toolkits fundamentally change the relationship with customers (e.g. a change
+from person-to-person contact to computer-to-computer interactions
+ 
+ 
+ - What are the benefits of using toolkits?
+    - User toolkits **enable consumers to develop** customized products and
+applications without having dedicated technical knowledge
+    - Toolkits are a very powerful tool to **meet the growing demand for customized
+products** and applications
+    - Possibility to **derive aggregated总数 information about customer needs** to
+strengthen future product development
+    - Customized manufacturing **lowers the risk of product rejects**
+- What do I need to be aware of while using toolkits?
+    - Development of creativity of the users **strongly depends on the design of the
+solution space**
+    - Development of the toolkit can be **quite time consuming, complex and
+expensive**
+    - **Development and technical care** of a good toolkit as well as the assessment of
+developed customer data **can be a very complex task**
+    - The **quality of the toolkit is the key** towards customers acceptance of the
+toolkit####One specific method: mini case
 
 ####Community management
