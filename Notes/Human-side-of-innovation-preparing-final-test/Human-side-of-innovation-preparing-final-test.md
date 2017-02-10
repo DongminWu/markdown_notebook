@@ -21,7 +21,7 @@ motivation) and their effects on 5 phases of creativity
 
 Creativity:
 
-- Generation of novel and useful ideas 
+- Generation of novel小说 and useful ideas 
 - Absolute (”true”) novelty
 - Partially an intra-individual (自我节点内的) cognitive process
   
@@ -29,7 +29,7 @@ Creativity:
 Innovation:
 
 - Production of creative ideas and implementation 
-- Relative novelty (e.g., ideas may be adopted from otherorganizations)
+- Relative novelty (e.g., ideas may be adopted from other organizations)
 - Primarily an inter-individual(人与人之间的) social process
 
 **Measurement of creativity**
@@ -917,3 +917,384 @@ developed customer data **can be a very complex task**
 toolkit####One specific method: mini case
 
 ####Community management
+
+###Leadership
+
+- Transactional leadership
+    - **Exchange-oriented** leadership (reward or punishment for good or poor
+performance)
+    - Transactional leaders focus on **increasing the efficiency** of established routines
+and procedures and are more concerned with **following existing rules** than with
+making changes to the structure of the organization
+    - Also called: Managerial leadership
+- Transformational leadership
+    - Visionary, inspirational and **stimulating leadership** engendering **higher levels of
+employee performance and satisfaction**
+    - ”A transformational leader is one who articulates a **shared vision of the future**,
+intellectually stimulates subordinates, provides a great deal of support to subordinates, recognizes individual differences, and sets high expectations” (Kirkman et al., 2009)
+
+
+
+####Factors
+
+Transactional leadership
+
+- Leaving
+    - absence of leadership
+    - avoidance of intervention
+    - delayed decision-making
+    - Example: ”is absent when needed”
+- Passive management-by-exception
+    - intervene and make corrections only when things already go wrong     -  Example: ”waits for things to go wrong before taking action”
+- Active management-by-exception
+    - monitor subordinates
+    - focus on errors and deviations from standards
+    -  correct and criticize immediately
+    - Example: ”keeps track of all mistakes”
+- Contingent reward
+    - set performance goals
+    - clarify expectations
+    - give recognition upon goal attainment
+    - Example: ”expresses satisfaction when I meet expectations”
+
+    
+    
+    
+    
+    
+Transformational Leadership
+
+- Idealised influence (behavioural)
+    - communicate mission and values
+    - act as ethical role model
+    - Example: ”talks about his/her most important values and beliefs”
+- Idealised influence (attributed)
+    - perceived as exceptional, confident and trustworthy
+    - Example: ”instills pride in me for being associated with him/her”
+- Inspirational motivation
+    - articulate visions and shared goals
+    - display optimism talks enthusiastically about what needs to be accomplished   
+    -  Example: ”talks enthusiastically about what needs to be accomplished”
+- Intellectual stimulation
+    - encourage others to question assumptions and develop new approaches   
+    -  Example: ”gets me to look at problems from many different angles”
+- Individualised consideration
+    - treat subordinates on a one-to-one basis  
+    -  provide coaching
+    - Example: ”helps me to develop my strengths”
+
+
+
+
+
+####Leadership and Innovation
+
+>其实就是Transformational leadership特棒!
+    
+Innoation Phases and Leadership Style
+
+Different **leadership behaviors** should be exhibited in different stages of the innovation process (behaviors noted in parentheses)
+
+- Initiation phase: **Nurturing** (encouraging safety and ideas, being supportive, being open-minded, ensuring a non-judgemental climate)
+- Discussion phase: **Developing** (obtaining opinions, evaluating proposals, agreeing implementation plans, pushing plans forward)
+- Implementation phase: **Championing** (selling the proposal to all groups affected, gaining commitment, ensuring participation in implementation)
+- Routinization phase: **Validating/modifying** (checking effectiveness, identifying weak links, modifying and improving the innovation)
+ 
+ 
+#####Leadership and Creativity
+
+As compared to transactional leadership, transformational leadership positively **facilitated both fluency** (number of unduplicated ideas) and **flexibility** (number of different types of ideas) in brainstorming groups
+
+
+#####Right Environment Important
+
+
+- **Transformational** leadership **positive performance** predictor
+- All 3 **transactional** factors **negative performance** predictors!
+- Transformational leadership more positively predicted performance when
+”support for innovation” (team climate factor) was high
+- Managers with an internal locus of control (belief that one can influence
+important outcomes) exhibited greater levels of transformational leadership
+
+
+- Transformational leadership **positively predicted organizational-level innovation**
+through enhanced support for innovation (organizational climate: perception that the company facilitates the implementation of new products and processes)
+
+#####How does Transformational Leadership affect Innovative Behavior and Task Performance
+
+- transformational leadership related positively and significantly to employees' work engament, both directly nad through enhanced meaningfulness and responsibility
+- work engament related positively and significantly to innovative behavior and task performance
+
+transformational leadership -> work engament -> innovative behavior
+
+####Authentic Leadership
+
+Authentic leaders
+
+- Are aware of their own personal values and beliefs and act in accordance to
+them
+- Are trustworthy and of high moral character
+- Support self-awareness and personal development among themselves and their
+followers
+
+
+#####how to measure Authentic leadership
+
+- Self-awareness
+    - Understand own strengths and weaknesses and one’s influence on others 
+    -  Sample item: Accurately describes how others view his or her capabilities
+- Relational transparency
+    - Show one’s ’true self’ and reveal one’s real thoughts and feelings    
+    -  Sample item: Says exactly what he or she means
+- Balanced processing
+    - Ask for opinions that challenge own assumptions and analyze all relevant input
+before making decisions
+  Sample item: Listens carefully to different points of view before coming to
+conclusions
+- Moral perspective
+    - Show behavior in accordance to one’s personal values rather than external
+pressures
+    - Sample item: Demonstrates beliefs that are consistent with actions
+
+**Authentic leadership related positively** and significantly to employees' **creativity**, both directly and indirectly through improving employees' "psychological capital"
+
+
+###Human Resource Management
+
+####Principal-Agent Theory
+
+Principal-Agent theory (PAT) deals with **relations and contracts**, in particular in situations with asymmetric information
+
+#####Two General Problems covered by PAT
+
+- P 1: Certain **characteristics of the agent** not are not known to the principal (**Hidden Information**)
+    - Is it possible to design contracts that only ”suitable“ candidates want to sign it? (*Adverse Selection*)
+    - Is it possible for the agents to (credible) submit their characteristics? (*Signaling*)
+    - Is it possible for the principal to design the contract, that agents (credibly) reveal their characteristics? (*Screening*)
+- P 2: **Agents actions** are hard /impossible to monitor (**Hidden Action**).
+    - What actions should be taken to monitor the agent?(*Monitoring*)
+    - Is it possible to design contracts in a way that the agents choose the ”right“
+actions (*Moral Hazard*)
+
+*Adverse Selection* is a situation where information asymmetry lead to non-optimal results in a market
+
+>adverse selection是一种因为信息不对称带来不利结果的情形, 解决这个情形有两个方法:
+
+*Signalling* is a mechanism where the agent credibly conveys information about itself to the principal 
+
+>就是agent主动地去和principal表达自己的信息
+
+*Screening* is the opposite of signaling, the principal takes action to reveal the true characteristics of theagent
+
+>principle主动地去试图找到agent的真实面目!
+
+>主要说signaling, human capital也要背....
+>signaling是说工作经验, 工作中获得的评价更重要. 
+>Human capital theory 是说学历更重要
+
+Human capital theory explains these differences due to different stock in human capital (Knowledge, skills, capabilities)
+
+Signaling theory
+
+- The job market values these characteristics differently
+- Highly intelligent people are likely to be of high productivity
+- Highly intelligent people do also invest more in their human capital
+- Salary in this perspective is not regarded as an immediate consequence of
+education. Rather, education signals a higher intelligence (in general)
+
+
+Differentiation:
+
+- Human capital theory: Education increases productivity- Signaling Theory: Education certificates reveal productivity
+
+#####Hidden Action Problems
+
+
+
+Central question:  How can the principal induce the agent(s) to choose their actions in the principal’s interest
+
+2 ways for solving this issue- Reduction of information asymmetry (monitoring) 
+- Alignment of interests
+
+
+**Monitoring** the principal aims to **control the actions of the agent**, in order to have the possibility to avoid or sanction opportunistic behavior
+
+Monitoring leads to two types of costs for the principal: 
+
+-  Direct costs (e.g. cameras, supervisors)
+- Indirect costs (z.B. Reduction of creativity, trust issues)
+
+Possible problems with monitoring:
+
+- Monitoring is not perfect
+- Monitoring is basically possible but not contractable
+
+
+Alignment of Interests
+
+>共同利益? 利益绑定. 就是怎么不通过监视使员工好好干活
+
+One option: Performance based payments 
+
+Alternative: Change of working conditions
+
+Possible problems:
+
+- Incentives lead in the **wrong direction**:
+    Dysfunctional behavioral responses where agents emphasize only those aspects
+of performance that are rewarded (Prendergast, 1999)
+- Incentives are **demotivational** (for the incentivized person, for other individuals) 
+- Incentives could lead to **increased risk taking** (Option-Theory)
+- Incentives have **other unintended effects**
+
+
+**If Performance Based Payment Does not Work**
+
+- Make employees feel like a part of the organization
+- Ensure security of workers
+- Try to ensure that more e↵ort is not a downside (employees ’like’ working hard)
+- Company success = individuals’ success
+- Psychological ownership心理上成为主人! (Sieger et al., 2013)
+
+
+####Persons’ Roles in the Innovation Process
+
+The Champion
+
+>推到创新的人
+
+Champions are necessary to overcome the social and political pressures imposed by an organization and convert them to its advantage
+
+
+- Step 1: Study among managers
+    - Think of an innovation in recent years
+    - Was there a particular individual responsible for this innovation?
+    - Name five actions which the individual actually performed that you consider
+being representative of his or her support of the innovation
+    - Elimination of duplicates, non-activities, very specific actions: List of 102
+potential activities of an innovation champion
+- Step 2: Scale development with alumni of a business school
+    - Think of an innovation in recent years
+    - Was there a particular individual responsible for this innovation?
+    - Please evaluate this individual’s behavior with respect to the activities on this
+list
+    - Selection of top answers and principal component analysis
+
+#####Leadership vs Champion Behavior
+
+- Leadership
+    - can induce innovation-related behavior by changing the situation I This can be done by each and every manager
+    - Key Questions:
+        - How much autonomy should be granted?
+        - How should expert-knowledge of the superior be used?
+- Championship literature stresses direct motivational influences: I Expresses enthusiasm and confidence
+    - Persists under adversity
+    - Gets the right people involved
+
+
+>champion能带来好的也有坏的
+
+- Expectations
+    - Commitment
+    - Imagination and creativity
+    - Leadership
+    - Expertise
+    - Analytical skills
+    - Diplomatic skills
+    - Good knowledge of the organization
+
+- Risks
+    - Unrealistic idealization of one hero
+    - Diffculty of an ex ante identification of the
+right champion
+    - Dependency of the organization on a single
+person
+    - Limited management capacity of a single
+person
+    - Cooperation with other key persons is not
+defined
+
+
+#####Promoter促进者 Roles
+
+Promotor models are based on the following assumptions:
+
+- The innovation is confronted with di↵erent kinds of barriers
+- To surmount克服 these barriers di↵erent kinds of power-bases are needed
+- In utilizing these power-bases, promotors provide valuable contributions to an
+innovation
+- Barriers, power-bases and contributions define a promotor role
+
+>什么是促进者
+
+- Promotors
+    - are persons, which actively and intensively support an innovation 
+    - start an innovation process
+    - sustain a high activity level
+    - terminate the decision process
+- Promotors by hierarchical power (power promotors):surmount barriers of will through their hierarchical potential
+- Promotors by know-how (expert promotors): surmount barriers of capability through their expert knowledge
+
+>两种促进者的
+
+
+- The Power Promotor
+    - has access to material resources  
+    - acts as an investor
+    - legitimizes projects
+    - influences personnel decisions
+    - blocks opposition
+    - protects expert promotors
+    - influences priorities and schedules
+- The Expert Promotor
+    - knows critical details
+    - develops alternatives
+    - evaluates external solution proposals     
+    - implements concepts
+    - tests prototypes
+    - solves problems
+
+
+Process Promotor
+
+- Barriers might also be organizational and administrative resistance (”We are not allowed to do that“)
+- Promotor needed that has 
+    - ”positional“ power
+    - knowledge of the organization 
+    - social competence
+- Contributions
+    - Knows concerned people
+    - Links sponsors and experts
+    - Steers the process through all stages
+    - Leads and moderates the innovation team
+
+
+Relationship Promotor
+
+- Has a central position in external exploitation networks
+- Knows the rules of the market and regulatory institutions
+- Has social competence, and good external networks
+- Finds external innovation partners and links them with internal ones
+- Plans, controls, moderates exchange processes, supports flow of information I Builds trust, solves conflicts, supports common goals with external partner
+
+
+Technological Gatekeeper
+
+- Expert knowledge, particularly from outside the organization
+- Good position in knowledge networks (”Research communities“ and/or
+”communities of practice“)
+- Social competence and personal credibility: opinion leader
+- Search for technical information; funneling, assessment, consolidation and storage of information
+- Selection of technical information; translation, preparation, interpretation and dissemination of information
+- Promotion of socialization processes within the work group
+- Helps to develop personal contact to external information partners
+
+
+
+![](./img/2017-02-10-18-17-43.png)
+
+
+
+
+
+
