@@ -499,8 +499,8 @@ Suggestions are discussed and further developed.
 - Effort
     - Every team member fully pushes the project.
     - Team members make the project their highest priority.
-    - The team puts much e↵ort into the project.
-    - There are no conflicts regarding the e↵orts that team member put into the
+    - The team puts much effort into the project.
+    - There are no conflicts regarding the efforts that team member put into the
 project.
 - Cohesion
     - The team members are strongly attached to the project.
@@ -1152,7 +1152,7 @@ of performance that are rewarded (Prendergast, 1999)
 
 - Make employees feel like a part of the organization
 - Ensure security of workers
-- Try to ensure that more e↵ort is not a downside (employees ’like’ working hard)
+- Try to ensure that more effort is not a downside (employees ’like’ working hard)
 - Company success = individuals’ success
 - Psychological ownership心理上成为主人! (Sieger et al., 2013)
 
@@ -1219,8 +1219,8 @@ defined
 
 Promotor models are based on the following assumptions:
 
-- The innovation is confronted with di↵erent kinds of barriers
-- To surmount克服 these barriers di↵erent kinds of power-bases are needed
+- The innovation is confronted with different kinds of barriers
+- To surmount克服 these barriers different kinds of power-bases are needed
 - In utilizing these power-bases, promotors provide valuable contributions to an
 innovation
 - Barriers, power-bases and contributions define a promotor role
