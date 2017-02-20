@@ -207,13 +207,13 @@ return Z
 //求E[φ U ψ]
 Z:= SAT(ψ)
 	do
-		Z := Z ∨ (φ ∧ EX Z); //注意这里是取并集
+		Z := Z ∨ (SAT(φ) ∧ SAT(EX Z)); //注意这里是取并集
 	until nothing changes in Z
 return Z
 
 ```
 
->TODO 今晚回家看看作业笔记
+---
 
 
 这一期就到这里啦! 生硬的结尾, 写的实在有点焦躁, 这块知识还是不是理解的很透彻呀.
