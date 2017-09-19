@@ -1,11 +1,45 @@
 #! /bin/bash
 
-sips -Z 700 Notes/*/img/*.png
-sips -Z 700 Notes/*/img/*.jpg
+THRESHOLD=700
+
+PNG_FILES=`ls Notes/*/img/*.png`
+JPG_FILES=`ls Notes/*/img/*.jpg`
+
+FILES="$PNG_FILES $JPG_FILES"
+
+
+FILE_NUM=`ls $FILES | wc -l | xargs` #https://stackoverflow.com/questions/369758/how-to-trim-whitespace-from-a-bash-variable
+EXEC_NUM=0
+
+for f in $FILES
+do
+
+    WIDTH=`sips -g pixelWidth $f | grep -Eo ":.[0-9]*" `
+    WIDTH=${WIDTH:2}
+    echo $f [$WIDTH]
+    if [ $WIDTH -gt $THRESHOLD ]; then
+	echo "Larger than $THRESHOLD px, compressing"
+	sips -Z $THRESHOLD $f
+	EXEC_NUM=$[ $EXEC_NUM + 1 ]
+	echo Done
+    else
+	echo "Smaller than $THRESHOLD px, skiping"
+    fi
+
+
+
+
+done
+
+
+#sips -Z 700 Notes/*/img/*.jpg
 
 
 echo "==============="
 echo ""
 echo "Resize Done!!!!"
+echo ""
+echo "$FILE_NUM images"
+echo "$EXEC_NUM compressed"
 echo ""
 echo "==============="
