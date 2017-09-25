@@ -39,7 +39,9 @@ So we can get a important restriction:
      \theta^Tx \ge 1
 \]
 
-This restriction makes the data points which far away from the boundary have the influence of angle of the linear boundary. In other words, which means we can have a margin for the boundary.
+This restriction makes the data points the boundary have the influence of angle of the linear boundary. In other words, which means we can have a margin for the boundary. We are trying to finde the biggest margin of the boundary.
+
+![](img/boundary.png)
 
 How to modify the margin? 
 
