@@ -1,11 +1,11 @@
 # Kernel Method in Machine Learning
 
 
-> I can also render TeX-like math syntaxes, if you allow me to. I can do inline math like this: \\( 1 + 1 \\) or this (in MathML): <math><mn>1</mn><mo>+</mo><mn>1</mn></math>, and block math:
+> I can also render TeX-like math syntaxes, if you allow me to. I can do inline math like this: \( 1 + 1 \) or this (in MathML): <math><mn>1</mn><mo>+</mo><mn>1</mn></math>, and block math:
 > 
-> \\[
+> \[
 >    A^T_S = B
-> \\]
+> \]
 
 
 
@@ -25,12 +25,12 @@ Informally, a kernel is a function that calculates the similarity between two ob
 
 ### Data and Feature maps ###
 
-1. Assume the a piece of data \\( x \\) from a `data set` \\( X \\)
-2. The `data set` can be projected to a new space, \\( F \\)
-3. The mapping function of last step (project X into F) called \\( \phi : X \longmapsto F \\)
-4. For \\( x \\), we can derive the procedure of projecting \\( x \\) to \\(F\\) as \\( \phi (x)\\)
+1. Assume the a piece of data \( x \) from a `data set` \( X \)
+2. The `data set` can be projected to a new space, \( F \)
+3. The mapping function of last step (project X into F) called \( \phi : X \longmapsto F \)
+4. For \( x \), we can derive the procedure of projecting \( x \) to \(F\) as \( \phi (x)\)
 
-> Remeber \\(\phi(x)\\) is the projection to a new higher space \\( F \\) !!!
+> Remeber \(\phi(x)\) is the projection to a new higher space \( F \) !!!
 
 
 ### Kernel function ###
@@ -38,10 +38,10 @@ Informally, a kernel is a function that calculates the similarity between two ob
 #### Defination ####
 
 a kernel function is an inner product (scalar product, dot product) **in the feature space F**,
-denoted by \\( \langle·,·\rangle_F \\)
+denoted by \( \langle·,·\rangle_F \)
 
 
-> Watch out, the kernel function is in the FEATURE SPACE \\( F\\)
+> Watch out, the kernel function is in the FEATURE SPACE \( F\)
 
 
 #### Linear kernel: 
@@ -50,18 +50,18 @@ denoted by \\( \langle·,·\rangle_F \\)
 
 Why do we call it linear kernel? What is the difference between it and other kernels?
 
-The main reason is \\( \phi(x) = x \\) , this equation ensure the kernel function is linear.
+The main reason is \( \phi(x) = x \) , this equation ensure the kernel function is linear.
 
 
-> What is \\(z\\) of \\(\phi(z)\\) ? 
+> What is \(z\) of \(\phi(z)\) ? 
 > 
-> It is another piece of data from input data set \\( X \\), just like \\( x \\)
+> It is another piece of data from input data set \( X \), just like \( x \)
 
 Therefore we can get the expression of Linear Kernel
 
-\\[
+\[
 	\kappa_{lin}(x,z) = \sum_{j=1}^nx_jz_j = x'z
-\\]
+\]
 
 > x' = transpose of vector x
 
@@ -81,17 +81,17 @@ Geometric interpretation of the linear kernel: **cosine angle between two featur
 Let's try to understand it!
 
 from the equation, we know that the kernel function 
-\\(\kappa_{lin}(x,z) =  x'z = cos\beta * Constant \\), in this equation the \\(Constant = ||x||_2||z||_2\\). 
+\(\kappa_{lin}(x,z) =  x'z = cos\beta * Constant \), in this equation the \(Constant = ||x||_2||z||_2\). 
 
-So the linear kernel function has linear relationship with the angle \\(cos\beta\\), which means we can use the angle
+So the linear kernel function has linear relationship with the angle \(cos\beta\), which means we can use the angle
 between two vectors to represent the linear kernel function. Each vector is the line between original point and the 
 data point
 
-For example, the vector of \\( x \\) is like below:
+For example, the vector of \( x \) is like below:
 
 ![](./img/2017-09-20-01-06-24.png)
 
-So we can use the angle \\(cos\beta\\) to represent the linear kernel function \\( \kappa_{lin}(x,z)\\)
+So we can use the angle \(cos\beta\) to represent the linear kernel function \( \kappa_{lin}(x,z)\)
 
 ![](./img/2017-09-20-01-09-53.png)
 
@@ -112,10 +112,10 @@ not be examined, pass
 
 #### Data & kernel matrix
 
-**Suppose we have a serial of data \\(\{x_1,x_2,x_3,....,x_n\}\\), 
+**Suppose we have a serial of data \(\{x_1,x_2,x_3,....,x_n\}\), 
 each of them has different some feature(dimension).**
 
-For example, \\( x_1 = (x_{11}, x_{12},x_{13},...,x_{1n})\\)
+For example, \( x_1 = (x_{11}, x_{12},x_{13},...,x_{1n})\)
 
 We can build a data matrix with those data:
 
@@ -128,8 +128,8 @@ I just **multiply the data set with itself**. Here is the result:
 ![](./img/2017-09-20-02-25-05.png)
 
 Obviously, each entry is an inner product between two data points 
-\\(\kappa(x_i,x_j) = \langle\phi(x_i),\phi(x_j)\rangle\\), 
-remeber \\(\phi\\) is the projection from data set X to the higher space F 
+\(\kappa(x_i,x_j) = \langle\phi(x_i),\phi(x_j)\rangle\), 
+remeber \(\phi\) is the projection from data set X to the higher space F 
 
 **improtant properties**
 
