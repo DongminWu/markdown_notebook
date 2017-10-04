@@ -30,12 +30,12 @@ Informally, a kernel is a function that calculates the similarity between two ob
 3. The mapping function of last step (project X into F) called \( \phi : X \longmapsto F \)
 4. For \( x \), we can derive the procedure of projecting \( x \) to \(F\) as \( \phi (x)\)
 
-> Remeber \(\phi(x)\) is the projection to a new higher space \( F \) !!!
+> Remember \(\phi(x)\) is the projection to a new higher space \( F \) !!!
 
 
 ### Kernel function ###
 
-#### Defination ####
+#### Definition ####
 
 a kernel function is an inner product (scalar product, dot product) **in the feature space F**,
 denoted by \( \langle·,·\rangle_F \)
@@ -95,7 +95,7 @@ So we can use the angle \(cos\beta\) to represent the linear kernel function \( 
 
 ![](./img/2017-09-20-01-09-53.png)
 
-This explaination will be used in next few sections.
+This explanation will be used in next few sections.
 
 
 > <<<< end of my notes
@@ -121,7 +121,7 @@ We can build a data matrix with those data:
 
 ![](./img/2017-09-20-02-21-18.png)
 
-*In contrast to that*, we can form the kernel matrix by simply caculate the dot product of two data matix. 
+*In contrast to that*, we can form the kernel matrix by simply calculate the dot product of two data matrix. 
 I just **multiply the data set with itself**. Here is the result:
 
 
@@ -129,9 +129,9 @@ I just **multiply the data set with itself**. Here is the result:
 
 Obviously, each entry is an inner product between two data points 
 \(\kappa(x_i,x_j) = \langle\phi(x_i),\phi(x_j)\rangle\), 
-remeber \(\phi\) is the projection from data set X to the higher space F 
+remember \(\phi\) is the projection from data set X to the higher space F 
 
-**improtant properties**
+**important properties**
 
 - Since an inner product is symmetric K is a symmetric matrix
 - K is positive semi-definite --> eigenvalue is non-negative
@@ -178,7 +178,7 @@ Hinge loss:
 
 Spent some time for understanding this thing. 
 
-The reason of maximize the Margin is abvious, following is two boundaries for a same data set, the right one (who has a large margin) have better performance and robustness.
+The reason of maximize the Margin is obvious, following is two boundaries for a same data set, the right one (who has a large margin) have better performance and robustness.
 
 ![](./img/two_boundaries.png)
 
@@ -198,13 +198,13 @@ The math equation of \(\gamma\) is:
 	\gamma(x) = yg(x) = y(\langle \omega,x \rangle + b)
 \]
 
-\( \langle \omega,x \rangle\) is the inner product of two vectors, we can represent it as the projection on the direction of \(\omega\) times the lengh \(\omega\). On the diagram, the line \(OR\) and \(BR\) are two example of \( \langle \omega,x \rangle\)
+\( \langle \omega,x \rangle\) is the inner product of two vectors, we can represent it as the projection on the direction of \(\omega\) times the length \(\omega\). On the diagram, the line \(OR\) and \(BR\) are two example of \( \langle \omega,x \rangle\)
 
-#### Step 3: If the lengh of \(\omega\) is fixed
+#### Step 3: If the length of \(\omega\) is fixed
 
-Becasue \(\omega\) is a direction, so we can make a hyphothesis that the lengh of \(\omega\) is fixed, \(||\omega|| = 1\).
+Because \(\omega\) is a direction, so we can make a hypothesis that the length of \(\omega\) is fixed, \(||\omega|| = 1\).
 
-**From above we can know that the main task of ours is to caculate distance of each data point and then find the best one, for whom all data points have larger or equal distance to the boundary.**
+**From above we can know that the main task of ours is to calculate distance of each data point and then find the best one, for whom all data points have larger or equal distance to the boundary.**
 (Actually we are finding the nearest point to the boundary line, I used those words for better understanding of following equations)
 
 Math language:
@@ -216,9 +216,9 @@ Math language:
 	(for \ all \ i =1,...,l ; ||w|| = 1)
 \]
 
-#### Step 4: Change the view, if lengh of \(\gamma\) is fixed
+#### Step 4: Change the view, if length of \(\gamma\) is fixed
 
-It is not hard to understand, from the view of vector caculation. We simply have:  
+It is not hard to understand, from the view of vector calculation. We simply have:  
 
 \[
 	||\gamma||= ||\omega||  \times ||x||cos\beta \\
@@ -260,7 +260,7 @@ Perfect! We got a constraint for our algorithm, by using this constraint we can 
 
 #### Step 5: Tolerance of Non-separable data 
 
-It is very common that the data set is not extreamely divided. For example:
+It is very common that the data set is not extremely divided. For example:
 
 ![](./img/non-separable.png)
 
@@ -316,15 +316,15 @@ We knew that \(y_i(\langle \omega,x \rangle + b)\) is the distance of a point to
 
 In the diagram above we have a misclassified point \(W\), the purple vector \(OA_1 = \langle \omega,x \rangle + b\) is the distance between \(W\) and the ideal boundary and the slack variable \(\xi_i\) is the pink dot line. You can easily see that \(OA_1 - \xi_i = \gamma\).
 
-From this part, we can always ignore any misclassified points, but it is not enough. Because if we just simply ignore every misclassified points we can randomly draw a boundary and it will always satisfy our constrant (think about drawing a boundary between \(B\) and \(D\). This is a obviously bad boundary, but it still satisfy the equation \(y_i(\langle \omega,x \rangle + b) \ge \gamma - \xi_i\)).
+From this part, we can always ignore any misclassified points, but it is not enough. Because if we just simply ignore every misclassified points we can randomly draw a boundary and it will always satisfy our constraint (think about drawing a boundary between \(B\) and \(D\). This is a obviously bad boundary, but it still satisfy the equation \(y_i(\langle \omega,x \rangle + b) \ge \gamma - \xi_i\)).
 
 **For the second point**, we are going to fix the issue mentioned above.
 
 Because the misclassified points is minority, so if we chose a boundary that close to the misclassified point, the item \(C\sum_{i=1}^l \xi_i\) will be significantly large. So we can only get \(min(\frac12||\omega||^2+C\sum_{i=1}^l \xi_i)\) by choosing a boundary that close to the major data points.
 
-If \(C\) is large, which means we value the misclassification a lot, we cannot tolerant them. So it may lead to a overfit issue.
+If \(C\) is large, which means we value the misclassification a lot, we cannot tolerant them. So it may lead to a overfitting issue.
 
-But if \(C\) is small, which means we don't care about the misclassification. Image that if \(C=0\), any boundary will satisfy our equation. Underfitting happends.
+But if \(C\) is small, which means we don't care about the misclassification. Image that if \(C=0\), any boundary will satisfy our equation. Underfitting happens.
 
 
 
